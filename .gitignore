@@ -1,0 +1,5 @@
+# video files
+*.mp4
+
+# Idea files
+.idea/
