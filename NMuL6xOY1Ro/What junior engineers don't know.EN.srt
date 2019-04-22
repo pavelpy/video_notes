@@ -1,18 +1,18 @@
-1
+﻿1
 00:00:00,030 --> 00:00:01,800
-hey tech late here and welcome back to
+Hey TechLead here and welcome back to
 
 2
 00:00:01,800 --> 00:00:03,870
-another episode of the tech lead with
+another episode of the TechLead with
 
 3
 00:00:03,870 --> 00:00:06,120
-the tech leads coffee time we have an
+the tech leads coffee time. We have an
 
 4
 00:00:06,120 --> 00:00:08,580
-interesting topic today it is about top
+interesting topic today. It is about top
 
 5
 00:00:08,580 --> 00:00:10,469
@@ -20,7 +20,7 @@ things that I wish junior engineers
 
 6
 00:00:10,469 --> 00:00:11,400
-would know
+would know.
 
 7
 00:00:11,400 --> 00:00:13,769
