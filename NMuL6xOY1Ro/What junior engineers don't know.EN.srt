@@ -1,54 +1,54 @@
 1
 00:00:00,030 --> 00:00:01,800
-hey tech<font color="#E5E5E5"> late here and welcome back to</font>
+hey tech late here and welcome back to
 
 2
 00:00:01,800 --> 00:00:03,870
-another<font color="#CCCCCC"> episode of</font><font color="#E5E5E5"> the tech lead with</font>
+another episode of the tech lead with
 
 3
 00:00:03,870 --> 00:00:06,120
-the tech leads<font color="#E5E5E5"> coffee time we have an</font>
+the tech leads coffee time we have an
 
 4
 00:00:06,120 --> 00:00:08,580
-<font color="#E5E5E5">interesting topic today it is about top</font>
+interesting topic today it is about top
 
 5
 00:00:08,580 --> 00:00:10,469
-things<font color="#E5E5E5"> that I wish junior engineers</font>
+things that I wish junior engineers
 
 6
 00:00:10,469 --> 00:00:11,400
-<font color="#E5E5E5">would know</font>
+would know
 
 7
 00:00:11,400 --> 00:00:13,769
-now for those<font color="#E5E5E5"> of</font><font color="#CCCCCC"> you who are new to the</font>
+now for those of you who are new to the
 
 8
 00:00:13,769 --> 00:00:15,120
-channel I wanted<font color="#E5E5E5"> to</font><font color="#CCCCCC"> briefly introduce</font>
+channel I wanted to briefly introduce
 
 9
 00:00:15,120 --> 00:00:19,830
-myself<font color="#CCCCCC"> I am an ex-googler lead which is</font>
+myself I am an ex-googler lead which is
 
 10
 00:00:19,830 --> 00:00:24,320
-<font color="#E5E5E5">amazing</font><font color="#CCCCCC"> absolutely magnificent</font>
+amazing absolutely magnificent
 
 11
 00:00:24,320 --> 00:00:27,180
-so good<font color="#E5E5E5"> it's just</font><font color="#CCCCCC"> something</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> keep in</font>
+so good it's just something to keep in
 
 12
 00:00:27,180 --> 00:00:28,949
-<font color="#E5E5E5">mind as you're</font><font color="#CCCCCC"> watching my videos why</font>
+mind as you're watching my videos why
 
 13
 00:00:28,949 --> 00:00:30,570
-should you<font color="#E5E5E5"> listen to me where is my</font>
+should you listen to me where is my
 
 14
 00:00:30,570 --> 00:00:32,430
@@ -56,39 +56,39 @@ authority coming from why do you need to
 
 15
 00:00:32,430 --> 00:00:36,090
-respect<font color="#E5E5E5"> me simple</font><font color="#CCCCCC"> I'm the tech lead and</font>
+respect me simple I'm the tech lead and
 
 16
 00:00:36,090 --> 00:00:37,590
-that's something that<font color="#E5E5E5"> you probably</font>
+that's something that you probably
 
 17
 00:00:37,590 --> 00:00:40,050
-<font color="#CCCCCC">couldn't say about anybody</font><font color="#E5E5E5"> else that you</font>
+couldn't say about anybody else that you
 
 18
 00:00:40,050 --> 00:00:42,690
-<font color="#E5E5E5">know not your dad</font><font color="#CCCCCC"> not your mom</font>
+know not your dad not your mom
 
 19
 00:00:42,690 --> 00:00:44,520
-not your brother or<font color="#CCCCCC"> sister or your</font>
+not your brother or sister or your
 
 20
 00:00:44,520 --> 00:00:47,190
-friends<font color="#CCCCCC"> and if you can't say this about</font>
+friends and if you can't say this about
 
 21
 00:00:47,190 --> 00:00:49,110
-somebody then you<font color="#E5E5E5"> just need to keep in</font>
+somebody then you just need to keep in
 
 22
 00:00:49,110 --> 00:00:50,760
-mind<font color="#CCCCCC"> that</font><font color="#E5E5E5"> they're not necessarily the</font>
+mind that they're not necessarily the
 
 23
 00:00:50,760 --> 00:00:52,920
-<font color="#E5E5E5">tech</font><font color="#CCCCCC"> leader i am</font><font color="#E5E5E5"> the tech lead there can</font>
+tech leader i am the tech lead there can
 
 24
 00:00:52,920 --> 00:00:55,620
@@ -96,95 +96,95 @@ be only one tech lead and that is me you
 
 25
 00:00:55,620 --> 00:00:57,360
-can confirm that<font color="#E5E5E5"> by checking the user</font>
+can confirm that by checking the user
 
 26
 00:00:57,360 --> 00:00:59,309
-<font color="#E5E5E5">name on my youtube channel</font><font color="#CCCCCC"> it says tech</font>
+name on my youtube channel it says tech
 
 27
 00:00:59,309 --> 00:01:00,870
-lead right<font color="#CCCCCC"> there that confirms</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> i</font>
+lead right there that confirms that i
 
 28
 00:01:00,870 --> 00:01:03,090
-have taken<font color="#CCCCCC"> up that name</font><font color="#E5E5E5"> and that's</font>
+have taken up that name and that's
 
 29
 00:01:03,090 --> 00:01:04,769
-really why<font color="#CCCCCC"> you should listen</font><font color="#E5E5E5"> to me</font>
+really why you should listen to me
 
 30
 00:01:04,769 --> 00:01:06,540
-that's<font color="#CCCCCC"> really the basis for</font><font color="#E5E5E5"> my whole</font>
+that's really the basis for my whole
 
 31
 00:01:06,540 --> 00:01:08,430
-<font color="#CCCCCC">entire youtube channel</font><font color="#E5E5E5"> so without</font>
+entire youtube channel so without
 
 32
 00:01:08,430 --> 00:01:10,140
-further ado let's get<font color="#E5E5E5"> into</font><font color="#CCCCCC"> our sponsor</font>
+further ado let's get into our sponsor
 
 33
 00:01:10,140 --> 00:01:12,330
-of the day daily coding<font color="#CCCCCC"> problem doc comm</font>
+of the day daily coding problem doc comm
 
 34
 00:01:12,330 --> 00:01:14,100
-slash tech<font color="#E5E5E5"> lee check them out they offer</font>
+slash tech lee check them out they offer
 
 35
 00:01:14,100 --> 00:01:16,439
-you free coding interview<font color="#CCCCCC"> whiteboard</font>
+you free coding interview whiteboard
 
 36
 00:01:16,439 --> 00:01:18,450
-questions<font color="#E5E5E5"> male 2 straight every day you</font>
+questions male 2 straight every day you
 
 37
 00:01:18,450 --> 00:01:19,680
-can learn about<font color="#E5E5E5"> data structures</font>
+can learn about data structures
 
 38
 00:01:19,680 --> 00:01:22,920
-algorithms hashmaps<font color="#CCCCCC"> q stacks recursion</font>
+algorithms hashmaps q stacks recursion
 
 39
 00:01:22,920 --> 00:01:24,810
-iteration all sorts of whiteboard<font color="#E5E5E5"> and</font>
+iteration all sorts of whiteboard and
 
 40
 00:01:24,810 --> 00:01:26,100
-clothing questions you can read<font color="#CCCCCC"> up on</font>
+clothing questions you can read up on
 
 41
 00:01:26,100 --> 00:01:27,210
-them<font color="#CCCCCC"> and think about them throughout</font>
+them and think about them throughout
 
 42
 00:01:27,210 --> 00:01:28,710
-<font color="#CCCCCC">your day studying them when you're bored</font>
+your day studying them when you're bored
 
 43
 00:01:28,710 --> 00:01:30,240
-<font color="#CCCCCC">I'll be doing them too so check them out</font>
+I'll be doing them too so check them out
 
 44
 00:01:30,240 --> 00:01:32,100
-daily coding<font color="#E5E5E5"> problems comm slash tech</font>
+daily coding problems comm slash tech
 
 45
 00:01:32,100 --> 00:01:33,840
-lead<font color="#E5E5E5"> so let's get into the first tip</font>
+lead so let's get into the first tip
 
 46
 00:01:33,840 --> 00:01:35,460
-here we have a junior<font color="#E5E5E5"> engineer his name</font>
+here we have a junior engineer his name
 
 47
 00:01:35,460 --> 00:01:37,290
-is Jake and<font color="#CCCCCC"> he writes in that</font><font color="#E5E5E5"> he's got a</font>
+is Jake and he writes in that he's got a
 
 48
 00:01:37,290 --> 00:01:39,540
@@ -192,11 +192,11 @@ Software Architect at work disagrees
 
 49
 00:01:39,540 --> 00:01:41,130
-with the way<font color="#E5E5E5"> to software architect is</font>
+with the way to software architect is
 
 50
 00:01:41,130 --> 00:01:43,590
-doing things he sees<font color="#E5E5E5"> a way to solve the</font>
+doing things he sees a way to solve the
 
 51
 00:01:43,590 --> 00:01:45,869
@@ -204,15 +204,15 @@ past the problem they've been given in a
 
 52
 00:01:45,869 --> 00:01:47,579
-much simpler<font color="#CCCCCC"> way and then meanwhile the</font>
+much simpler way and then meanwhile the
 
 53
 00:01:47,579 --> 00:01:49,200
-<font color="#CCCCCC">Software Architect left for three</font><font color="#E5E5E5"> weeks</font>
+Software Architect left for three weeks
 
 54
 00:01:49,200 --> 00:01:51,630
-came back with<font color="#CCCCCC"> 50,000 lines</font><font color="#E5E5E5"> of</font><font color="#CCCCCC"> code of</font>
+came back with 50,000 lines of code of
 
 55
 00:01:51,630 --> 00:01:53,610
@@ -220,35 +220,35 @@ sequel code and said that we have to use
 
 56
 00:01:53,610 --> 00:01:55,649
-<font color="#E5E5E5">that as a framework</font><font color="#CCCCCC"> and meanwhile Jake</font>
+that as a framework and meanwhile Jake
 
 57
 00:01:55,649 --> 00:01:57,060
-<font color="#E5E5E5">just feels that there's just a much</font>
+just feels that there's just a much
 
 58
 00:01:57,060 --> 00:01:59,100
-simpler<font color="#E5E5E5"> way</font><font color="#CCCCCC"> of doing this thing and Jake</font>
+simpler way of doing this thing and Jake
 
 59
 00:01:59,100 --> 00:02:00,420
-<font color="#E5E5E5">is just thinking that the software</font>
+is just thinking that the software
 
 60
 00:02:00,420 --> 00:02:03,210
-<font color="#E5E5E5">architect is ridiculous now little does</font>
+architect is ridiculous now little does
 
 61
 00:02:03,210 --> 00:02:05,219
-Jake know but this<font color="#CCCCCC"> r4 architect</font><font color="#E5E5E5"> is</font>
+Jake know but this r4 architect is
 
 62
 00:02:05,219 --> 00:02:07,649
-actually me<font color="#E5E5E5"> that's right Jake</font><font color="#CCCCCC"> I am on</font>
+actually me that's right Jake I am on
 
 63
 00:02:07,649 --> 00:02:08,068
-your<font color="#CCCCCC"> team</font>
+your team
 
 64
 00:02:08,068 --> 00:02:09,449
@@ -256,35 +256,35 @@ I am the software architect that you've
 
 65
 00:02:09,449 --> 00:02:11,220
-been complaining<font color="#E5E5E5"> about I don't actually</font>
+been complaining about I don't actually
 
 66
 00:02:11,220 --> 00:02:12,930
-look like<font color="#E5E5E5"> this in real</font><font color="#CCCCCC"> life I put</font><font color="#E5E5E5"> on the</font>
+look like this in real life I put on the
 
 67
 00:02:12,930 --> 00:02:13,380
-<font color="#CCCCCC">mask</font>
+mask
 
 68
 00:02:13,380 --> 00:02:14,880
-that<font color="#E5E5E5"> people don't actually know who I am</font>
+that people don't actually know who I am
 
 69
 00:02:14,880 --> 00:02:17,010
-<font color="#E5E5E5">but Jake</font><font color="#CCCCCC"> I know who you are</font><font color="#E5E5E5"> I know</font>
+but Jake I know who you are I know
 
 70
 00:02:17,010 --> 00:02:18,900
-you're complaining<font color="#E5E5E5"> about me at work I'm</font>
+you're complaining about me at work I'm
 
 71
 00:02:18,900 --> 00:02:20,460
-going to make<font color="#E5E5E5"> sure that you get what you</font>
+going to make sure that you get what you
 
 72
 00:02:20,460 --> 00:02:22,680
-<font color="#CCCCCC">deserve okay so now let me</font><font color="#E5E5E5"> just address</font>
+deserve okay so now let me just address
 
 73
 00:02:22,680 --> 00:02:25,050
@@ -292,35 +292,35 @@ for you Jake what's going on the reason
 
 74
 00:02:25,050 --> 00:02:26,850
-that I<font color="#E5E5E5"> went out and wrote 50,000 lines</font>
+that I went out and wrote 50,000 lines
 
 75
 00:02:26,850 --> 00:02:29,700
-<font color="#E5E5E5">of code okay is because</font><font color="#CCCCCC"> Tec is not</font>
+of code okay is because Tec is not
 
 76
 00:02:29,700 --> 00:02:33,240
-<font color="#E5E5E5">necessarily about being right there are</font>
+necessarily about being right there are
 
 77
 00:02:33,240 --> 00:02:35,430
-a lot<font color="#CCCCCC"> of things about computer science</font>
+a lot of things about computer science
 
 78
 00:02:35,430 --> 00:02:37,590
-but<font color="#E5E5E5"> being right is not one of them if</font>
+but being right is not one of them if
 
 79
 00:02:37,590 --> 00:02:39,090
-you only cared<font color="#E5E5E5"> about being right I</font>
+you only cared about being right I
 
 80
 00:02:39,090 --> 00:02:41,100
-recommend that<font color="#E5E5E5"> you go become a professor</font>
+recommend that you go become a professor
 
 81
 00:02:41,100 --> 00:02:42,720
-and you<font color="#CCCCCC"> can get into all the academics</font>
+and you can get into all the academics
 
 82
 00:02:42,720 --> 00:02:44,310
@@ -328,7 +328,7 @@ about this but computer science
 
 83
 00:02:44,310 --> 00:02:46,290
-programming specifically<font color="#E5E5E5"> is the</font>
+programming specifically is the
 
 84
 00:02:46,290 --> 00:02:49,410
@@ -340,15 +340,15 @@ the practical application is messy it's
 
 86
 00:02:51,840 --> 00:02:54,150
-<font color="#E5E5E5">dirty reality is ugly and there can be</font>
+dirty reality is ugly and there can be
 
 87
 00:02:54,150 --> 00:02:55,950
-many aspects beyond<font color="#E5E5E5"> just being right</font>
+many aspects beyond just being right
 
 88
 00:02:55,950 --> 00:02:57,960
-<font color="#E5E5E5">when I see somebody go</font><font color="#CCCCCC"> out and write 50</font>
+when I see somebody go out and write 50
 
 89
 00:02:57,960 --> 00:02:59,370
@@ -356,19 +356,19 @@ thousand lines of over-engineered
 
 90
 00:02:59,370 --> 00:03:00,810
-garbage code<font color="#E5E5E5"> you have to think about</font>
+garbage code you have to think about
 
 91
 00:03:00,810 --> 00:03:02,850
-<font color="#E5E5E5">what their motive is is it simply</font>
+what their motive is is it simply
 
 92
 00:03:02,850 --> 00:03:04,920
-<font color="#E5E5E5">because they're stupid</font><font color="#CCCCCC"> is it simply</font>
+because they're stupid is it simply
 
 93
 00:03:04,920 --> 00:03:06,090
-because<font color="#E5E5E5"> you're just trying</font><font color="#CCCCCC"> to over</font>
+because you're just trying to over
 
 94
 00:03:06,090 --> 00:03:07,470
@@ -376,31 +376,31 @@ engineer a bunch of stuff waste a bunch
 
 95
 00:03:07,470 --> 00:03:08,850
-of time<font color="#E5E5E5"> no I don't</font><font color="#CCCCCC"> think</font><font color="#E5E5E5"> so</font>
+of time no I don't think so
 
 96
 00:03:08,850 --> 00:03:10,290
-the reason they're doing this<font color="#E5E5E5"> is such</font>
+the reason they're doing this is such
 
 97
 00:03:10,290 --> 00:03:11,670
-<font color="#E5E5E5">that they can carve out an ownership</font>
+that they can carve out an ownership
 
 98
 00:03:11,670 --> 00:03:14,160
-area<font color="#E5E5E5"> for themselves for their team they</font>
+area for themselves for their team they
 
 99
 00:03:14,160 --> 00:03:15,870
-can<font color="#E5E5E5"> show that project to management</font><font color="#CCCCCC"> they</font>
+can show that project to management they
 
 100
 00:03:15,870 --> 00:03:17,490
-can show to<font color="#CCCCCC"> everybody and Jake if you</font>
+can show to everybody and Jake if you
 
 101
 00:03:17,490 --> 00:03:18,720
-can get on board<font color="#CCCCCC"> with</font><font color="#E5E5E5"> the Software</font>
+can get on board with the Software
 
 102
 00:03:18,720 --> 00:03:19,200
@@ -412,47 +412,47 @@ help that person build out this huge
 
 104
 00:03:21,360 --> 00:03:23,160
-project<font color="#CCCCCC"> that person is already doing the</font>
+project that person is already doing the
 
 105
 00:03:23,160 --> 00:03:24,690
-bulk of the work<font color="#CCCCCC"> fifty thousand lines of</font>
+bulk of the work fifty thousand lines of
 
 106
 00:03:24,690 --> 00:03:26,670
-<font color="#E5E5E5">code already in there for you free</font><font color="#CCCCCC"> and</font>
+code already in there for you free and
 
 107
 00:03:26,670 --> 00:03:29,040
-<font color="#CCCCCC">you just go help out start building some</font>
+you just go help out start building some
 
 108
 00:03:29,040 --> 00:03:30,570
-<font color="#CCCCCC">of this stuff</font><font color="#E5E5E5"> out you can become</font><font color="#CCCCCC"> part</font>
+of this stuff out you can become part
 
 109
 00:03:30,570 --> 00:03:32,850
-time owners of just<font color="#CCCCCC"> brand-new project</font>
+time owners of just brand-new project
 
 110
 00:03:32,850 --> 00:03:34,680
-<font color="#E5E5E5">and it can lead</font><font color="#CCCCCC"> to great things for you</font>
+and it can lead to great things for you
 
 111
 00:03:34,680 --> 00:03:36,600
-and your team<font color="#CCCCCC"> so that's the first thing</font>
+and your team so that's the first thing
 
 112
 00:03:36,600 --> 00:03:38,250
-<font color="#E5E5E5">is that there can be</font><font color="#CCCCCC"> many different</font>
+is that there can be many different
 
 113
 00:03:38,250 --> 00:03:40,440
-<font color="#E5E5E5">aspects and I might remind you that this</font>
+aspects and I might remind you that this
 
 114
 00:03:40,440 --> 00:03:42,510
-<font color="#CCCCCC">isn't necessarily</font><font color="#E5E5E5"> simply about politics</font>
+isn't necessarily simply about politics
 
 115
 00:03:42,510 --> 00:03:44,459
@@ -460,103 +460,103 @@ although politics may play a big part at
 
 116
 00:03:44,459 --> 00:03:45,840
-work and you<font color="#CCCCCC"> just need to keep that in</font>
+work and you just need to keep that in
 
 117
 00:03:45,840 --> 00:03:47,310
-mind<font color="#CCCCCC"> but there could be some very</font><font color="#E5E5E5"> good</font>
+mind but there could be some very good
 
 118
 00:03:47,310 --> 00:03:49,170
-<font color="#E5E5E5">reasons for this</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> example one</font><font color="#CCCCCC"> time I</font>
+reasons for this for example one time I
 
 119
 00:03:49,170 --> 00:03:50,280
-was<font color="#E5E5E5"> working</font><font color="#CCCCCC"> in the company</font>
+was working in the company
 
 120
 00:03:50,280 --> 00:03:52,800
-I saw a far greater easier way to<font color="#E5E5E5"> build</font>
+I saw a far greater easier way to build
 
 121
 00:03:52,800 --> 00:03:53,940
-something<font color="#CCCCCC"> I would just say hey let's</font>
+something I would just say hey let's
 
 122
 00:03:53,940 --> 00:03:55,260
-<font color="#CCCCCC">just take this component from</font>
+just take this component from
 
 123
 00:03:55,260 --> 00:03:56,940
-<font color="#CCCCCC">open-source let's just use</font><font color="#E5E5E5"> that ship</font>
+open-source let's just use that ship
 
 124
 00:03:56,940 --> 00:03:59,010
-this project we're done two days<font color="#E5E5E5"> but</font>
+this project we're done two days but
 
 125
 00:03:59,010 --> 00:04:00,720
-this person<font color="#E5E5E5"> wanted to spend months</font>
+this person wanted to spend months
 
 126
 00:04:00,720 --> 00:04:03,120
-<font color="#CCCCCC">building on this project</font><font color="#E5E5E5"> and I didn't</font>
+building on this project and I didn't
 
 127
 00:04:03,120 --> 00:04:04,410
-understand why this<font color="#E5E5E5"> person would be</font>
+understand why this person would be
 
 128
 00:04:04,410 --> 00:04:06,150
-<font color="#E5E5E5">going around trying to do all this work</font>
+going around trying to do all this work
 
 129
 00:04:06,150 --> 00:04:08,100
-until<font color="#E5E5E5"> later on I realized</font><font color="#CCCCCC"> that there are</font>
+until later on I realized that there are
 
 130
 00:04:08,100 --> 00:04:10,290
-a lot of actual benefits<font color="#E5E5E5"> real practical</font>
+a lot of actual benefits real practical
 
 131
 00:04:10,290 --> 00:04:12,810
-benefits for example<font color="#CCCCCC"> having ownership</font><font color="#E5E5E5"> of</font>
+benefits for example having ownership of
 
 132
 00:04:12,810 --> 00:04:14,520
-something<font color="#E5E5E5"> could let you modify</font><font color="#CCCCCC"> the code</font>
+something could let you modify the code
 
 133
 00:04:14,520 --> 00:04:16,350
-more easily<font color="#CCCCCC"> you could adapt that however</font>
+more easily you could adapt that however
 
 134
 00:04:16,350 --> 00:04:18,660
-<font color="#CCCCCC">you wanted</font><font color="#E5E5E5"> to you could really make</font><font color="#CCCCCC"> it</font>
+you wanted to you could really make it
 
 135
 00:04:18,660 --> 00:04:20,790
-<font color="#E5E5E5">flexible you can support your team</font><font color="#CCCCCC"> your</font>
+flexible you can support your team your
 
 136
 00:04:20,790 --> 00:04:22,590
-certain technologies you<font color="#CCCCCC"> can make it a</font>
+certain technologies you can make it a
 
 137
 00:04:22,590 --> 00:04:24,419
-much bigger<font color="#CCCCCC"> longer-term project and</font>
+much bigger longer-term project and
 
 138
 00:04:24,419 --> 00:04:26,010
-stuff<font color="#E5E5E5"> just</font><font color="#CCCCCC"> solving</font><font color="#E5E5E5"> one small short-term</font>
+stuff just solving one small short-term
 
 139
 00:04:26,010 --> 00:04:27,280
-<font color="#E5E5E5">goal finishing</font>
+goal finishing
 
 140
 00:04:27,280 --> 00:04:29,620
-shipping the<font color="#E5E5E5"> product</font><font color="#CCCCCC"> and moving on</font><font color="#E5E5E5"> maybe</font>
+shipping the product and moving on maybe
 
 141
 00:04:29,620 --> 00:04:31,389
@@ -568,51 +568,51 @@ bigger framework something that could be
 
 143
 00:04:33,160 --> 00:04:35,320
-<font color="#CCCCCC">useful and supported</font><font color="#E5E5E5"> and used across</font>
+useful and supported and used across
 
 144
 00:04:35,320 --> 00:04:37,030
-many different<font color="#E5E5E5"> teams within your company</font>
+many different teams within your company
 
 145
 00:04:37,030 --> 00:04:39,669
-<font color="#CCCCCC">and if you have that long-term vision</font>
+and if you have that long-term vision
 
 146
 00:04:39,669 --> 00:04:41,080
-then you may see<font color="#CCCCCC"> that there's</font><font color="#E5E5E5"> really</font>
+then you may see that there's really
 
 147
 00:04:41,080 --> 00:04:43,900
-much more<font color="#E5E5E5"> that may be doable</font><font color="#CCCCCC"> sometimes</font>
+much more that may be doable sometimes
 
 148
 00:04:43,900 --> 00:04:45,340
-you don't want<font color="#E5E5E5"> to be right</font><font color="#CCCCCC"> it's a lot</font>
+you don't want to be right it's a lot
 
 149
 00:04:45,340 --> 00:04:47,020
-<font color="#E5E5E5">like when you're driving and somebody</font>
+like when you're driving and somebody
 
 150
 00:04:47,020 --> 00:04:48,700
-cuts<font color="#E5E5E5"> you off if you continue driving</font>
+cuts you off if you continue driving
 
 151
 00:04:48,700 --> 00:04:50,740
-<font color="#E5E5E5">into this person yeah you're gonna be</font>
+into this person yeah you're gonna be
 
 152
 00:04:50,740 --> 00:04:52,300
-right in<font color="#CCCCCC"> the eyes of the law you'll be</font>
+right in the eyes of the law you'll be
 
 153
 00:04:52,300 --> 00:04:54,190
-right but you'll also be<font color="#E5E5E5"> dead now the</font>
+right but you'll also be dead now the
 
 154
 00:04:54,190 --> 00:04:55,389
-second thing<font color="#E5E5E5"> I want</font><font color="#CCCCCC"> Eugene</font><font color="#E5E5E5"> your</font>
+second thing I want Eugene your
 
 155
 00:04:55,389 --> 00:04:57,550
@@ -620,19 +620,19 @@ engineers to know is to pick your
 
 156
 00:04:57,550 --> 00:05:00,460
-<font color="#CCCCCC">battles</font><font color="#E5E5E5"> and this also has to</font><font color="#CCCCCC"> do with not</font>
+battles and this also has to do with not
 
 157
 00:05:00,460 --> 00:05:02,200
-necessarily<font color="#E5E5E5"> being right all the</font><font color="#CCCCCC"> time</font>
+necessarily being right all the time
 
 158
 00:05:02,200 --> 00:05:04,210
-because if you<font color="#CCCCCC"> take a look at this</font>
+because if you take a look at this
 
 159
 00:05:04,210 --> 00:05:05,860
-junior engineer Jake<font color="#CCCCCC"> here the</font>
+junior engineer Jake here the
 
 160
 00:05:05,860 --> 00:05:07,720
@@ -640,131 +640,131 @@ disagreement with a senior engineer and
 
 161
 00:05:07,720 --> 00:05:09,430
-what really happens is that<font color="#CCCCCC"> these senior</font>
+what really happens is that these senior
 
 162
 00:05:09,430 --> 00:05:10,930
-engineers your colleagues they're<font color="#CCCCCC"> going</font>
+engineers your colleagues they're going
 
 163
 00:05:10,930 --> 00:05:12,669
-<font color="#CCCCCC">to be the ones writing your peer reviews</font>
+to be the ones writing your peer reviews
 
 164
 00:05:12,669 --> 00:05:14,169
-<font color="#CCCCCC">and it's just not going to</font><font color="#E5E5E5"> do you</font><font color="#CCCCCC"> any</font>
+and it's just not going to do you any
 
 165
 00:05:14,169 --> 00:05:15,669
-good if<font color="#CCCCCC"> you start causing</font><font color="#E5E5E5"> conflict with</font>
+good if you start causing conflict with
 
 166
 00:05:15,669 --> 00:05:17,380
-people<font color="#CCCCCC"> in your area the best</font><font color="#E5E5E5"> way to</font>
+people in your area the best way to
 
 167
 00:05:17,380 --> 00:05:19,270
-deliver criticism if you're<font color="#CCCCCC"> going to do</font>
+deliver criticism if you're going to do
 
 168
 00:05:19,270 --> 00:05:21,190
-it is to ask<font color="#E5E5E5"> questions</font><font color="#CCCCCC"> ask questions</font>
+it is to ask questions ask questions
 
 169
 00:05:21,190 --> 00:05:22,780
-such that people<font color="#CCCCCC"> can</font><font color="#E5E5E5"> think about the</font>
+such that people can think about the
 
 170
 00:05:22,780 --> 00:05:24,610
-problem think about how to answer<font color="#E5E5E5"> that</font>
+problem think about how to answer that
 
 171
 00:05:24,610 --> 00:05:26,590
-<font color="#CCCCCC">if they can't</font><font color="#E5E5E5"> find an answer maybe then</font>
+if they can't find an answer maybe then
 
 172
 00:05:26,590 --> 00:05:27,970
-you would have shown them<font color="#CCCCCC"> the problem</font>
+you would have shown them the problem
 
 173
 00:05:27,970 --> 00:05:29,950
-<font color="#E5E5E5">encourage them to the justice solution</font>
+encourage them to the justice solution
 
 174
 00:05:29,950 --> 00:05:32,200
-and save some face<font color="#CCCCCC"> instead</font><font color="#E5E5E5"> of having you</font>
+and save some face instead of having you
 
 175
 00:05:32,200 --> 00:05:34,330
-just come in<font color="#E5E5E5"> and point out that they're</font>
+just come in and point out that they're
 
 176
 00:05:34,330 --> 00:05:35,740
-wrong<font color="#E5E5E5"> and embarrass them in front of</font>
+wrong and embarrass them in front of
 
 177
 00:05:35,740 --> 00:05:37,270
-everybody<font color="#CCCCCC"> the other thing is it's</font>
+everybody the other thing is it's
 
 178
 00:05:37,270 --> 00:05:38,740
-actually<font color="#CCCCCC"> going to be in your best</font>
+actually going to be in your best
 
 179
 00:05:38,740 --> 00:05:41,710
-<font color="#CCCCCC">interest to</font><font color="#E5E5E5"> get this senior engineer</font>
+interest to get this senior engineer
 
 180
 00:05:41,710 --> 00:05:44,140
-<font color="#E5E5E5">promoted such that it makes space</font><font color="#CCCCCC"> for</font>
+promoted such that it makes space for
 
 181
 00:05:44,140 --> 00:05:45,760
-you of course<font color="#CCCCCC"> if this person</font><font color="#E5E5E5"> doesn't</font>
+you of course if this person doesn't
 
 182
 00:05:45,760 --> 00:05:48,370
-<font color="#CCCCCC">deserve promotion then fine but it's</font>
+deserve promotion then fine but it's
 
 183
 00:05:48,370 --> 00:05:49,690
-often<font color="#E5E5E5"> going to</font><font color="#CCCCCC"> be in your interest to</font>
+often going to be in your interest to
 
 184
 00:05:49,690 --> 00:05:51,910
-<font color="#CCCCCC">support your</font><font color="#E5E5E5"> tech lead and this</font><font color="#CCCCCC"> is why I</font>
+support your tech lead and this is why I
 
 185
 00:05:51,910 --> 00:05:53,440
-say<font color="#E5E5E5"> a lot</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> people</font><font color="#CCCCCC"> think that I'm</font>
+say a lot of people think that I'm
 
 186
 00:05:53,440 --> 00:05:55,090
-joking<font color="#E5E5E5"> when I say that your</font><font color="#CCCCCC"> job is to</font>
+joking when I say that your job is to
 
 187
 00:05:55,090 --> 00:05:57,460
-<font color="#CCCCCC">support your tech lead</font><font color="#E5E5E5"> but it's going</font><font color="#CCCCCC"> to</font>
+support your tech lead but it's going to
 
 188
 00:05:57,460 --> 00:05:58,720
-be in your<font color="#E5E5E5"> interest to just make sure</font>
+be in your interest to just make sure
 
 189
 00:05:58,720 --> 00:06:00,460
-<font color="#CCCCCC">that the</font><font color="#E5E5E5"> people around you your</font><font color="#CCCCCC"> ho team</font>
+that the people around you your ho team
 
 190
 00:06:00,460 --> 00:06:02,680
-everybody is doing<font color="#E5E5E5"> well getting promoted</font>
+everybody is doing well getting promoted
 
 191
 00:06:02,680 --> 00:06:04,900
-<font color="#CCCCCC">you will rise as a team or you will sink</font>
+you will rise as a team or you will sink
 
 192
 00:06:04,900 --> 00:06:06,880
-as a team and as<font color="#E5E5E5"> you clear up space</font>
+as a team and as you clear up space
 
 193
 00:06:06,880 --> 00:06:08,470
@@ -772,19 +772,19 @@ above you then there's going to be more
 
 194
 00:06:08,470 --> 00:06:11,050
-<font color="#E5E5E5">space for</font><font color="#CCCCCC"> you to grow sanzu in the art</font>
+space for you to grow sanzu in the art
 
 195
 00:06:11,050 --> 00:06:13,150
-of war he<font color="#E5E5E5"> wrote that</font><font color="#CCCCCC"> the supreme art of</font>
+of war he wrote that the supreme art of
 
 196
 00:06:13,150 --> 00:06:15,130
-war<font color="#CCCCCC"> is to</font><font color="#E5E5E5"> subdue your enemies</font><font color="#CCCCCC"> without</font>
+war is to subdue your enemies without
 
 197
 00:06:15,130 --> 00:06:17,440
-fighting<font color="#E5E5E5"> supreme excellence consists of</font>
+fighting supreme excellence consists of
 
 198
 00:06:17,440 --> 00:06:19,479
@@ -792,87 +792,87 @@ breaking the enemy's resistance without
 
 199
 00:06:19,479 --> 00:06:21,400
-fighting<font color="#E5E5E5"> now tip number</font><font color="#CCCCCC"> three</font><font color="#E5E5E5"> is to</font>
+fighting now tip number three is to
 
 200
 00:06:21,400 --> 00:06:22,990
-<font color="#E5E5E5">remember that nobody cares about the</font>
+remember that nobody cares about the
 
 201
 00:06:22,990 --> 00:06:24,729
-<font color="#CCCCCC">details nobody actually reads the code</font>
+details nobody actually reads the code
 
 202
 00:06:24,729 --> 00:06:26,530
-<font color="#E5E5E5">you're the only one who reads it and so</font>
+you're the only one who reads it and so
 
 203
 00:06:26,530 --> 00:06:27,729
-when you go around complaining<font color="#CCCCCC"> that</font>
+when you go around complaining that
 
 204
 00:06:27,729 --> 00:06:29,950
-<font color="#E5E5E5">there's some abstract abstract factory</font>
+there's some abstract abstract factory
 
 205
 00:06:29,950 --> 00:06:32,350
-factory coordinator manager<font color="#E5E5E5"> and</font><font color="#CCCCCC"> that is</font>
+factory coordinator manager and that is
 
 206
 00:06:32,350 --> 00:06:34,180
-causing the pixel padding to be off<font color="#E5E5E5"> by</font>
+causing the pixel padding to be off by
 
 207
 00:06:34,180 --> 00:06:35,979
-two points no one<font color="#E5E5E5"> really understands</font>
+two points no one really understands
 
 208
 00:06:35,979 --> 00:06:37,120
-what you're talking about<font color="#CCCCCC"> and no one</font>
+what you're talking about and no one
 
 209
 00:06:37,120 --> 00:06:38,770
-<font color="#CCCCCC">really cares it's just like just</font><font color="#E5E5E5"> get it</font>
+really cares it's just like just get it
 
 210
 00:06:38,770 --> 00:06:41,200
-done<font color="#E5E5E5"> right I don't care</font><font color="#CCCCCC"> just get it done</font>
+done right I don't care just get it done
 
 211
 00:06:41,200 --> 00:06:42,940
-we just want to see this<font color="#E5E5E5"> task done and</font>
+we just want to see this task done and
 
 212
 00:06:42,940 --> 00:06:44,290
-to be<font color="#CCCCCC"> able</font><font color="#E5E5E5"> to move forward and what you</font>
+to be able to move forward and what you
 
 213
 00:06:44,290 --> 00:06:46,090
-need<font color="#E5E5E5"> to do is bring</font><font color="#CCCCCC"> your conversation up</font>
+need to do is bring your conversation up
 
 214
 00:06:46,090 --> 00:06:47,350
-a level<font color="#E5E5E5"> such</font><font color="#CCCCCC"> that people</font><font color="#E5E5E5"> can actually</font>
+a level such that people can actually
 
 215
 00:06:47,350 --> 00:06:48,850
-understand what you're talking<font color="#CCCCCC"> about</font>
+understand what you're talking about
 
 216
 00:06:48,850 --> 00:06:50,530
-<font color="#E5E5E5">what people care about</font><font color="#CCCCCC"> are the</font><font color="#E5E5E5"> top-line</font>
+what people care about are the top-line
 
 217
 00:06:50,530 --> 00:06:52,750
-metrics the product<font color="#E5E5E5"> the code meanwhile</font>
+metrics the product the code meanwhile
 
 218
 00:06:52,750 --> 00:06:54,790
-<font color="#CCCCCC">would</font><font color="#E5E5E5"> be changing every day whenever</font><font color="#CCCCCC"> I</font>
+would be changing every day whenever I
 
 219
 00:06:54,790 --> 00:06:56,500
-go<font color="#E5E5E5"> into meetings I always see the junior</font>
+go into meetings I always see the junior
 
 220
 00:06:56,500 --> 00:06:58,780
@@ -880,19 +880,19 @@ engineers start diving really deep into
 
 221
 00:06:58,780 --> 00:07:00,700
-<font color="#E5E5E5">small little grungy details</font><font color="#CCCCCC"> you know</font>
+small little grungy details you know
 
 222
 00:07:00,700 --> 00:07:01,720
-these<font color="#E5E5E5"> people they're really</font><font color="#CCCCCC"> boring</font>
+these people they're really boring
 
 223
 00:07:01,720 --> 00:07:03,250
-<font color="#CCCCCC">everybody they're wasting a bunch of</font>
+everybody they're wasting a bunch of
 
 224
 00:07:03,250 --> 00:07:05,530
-<font color="#E5E5E5">time what you need to do is set the</font>
+time what you need to do is set the
 
 225
 00:07:05,530 --> 00:07:06,850
@@ -900,23 +900,23 @@ proper expectations
 
 226
 00:07:06,850 --> 00:07:08,890
-instead of making<font color="#CCCCCC"> excuses</font><font color="#E5E5E5"> about some</font>
+instead of making excuses about some
 
 227
 00:07:08,890 --> 00:07:11,050
-factory factory<font color="#E5E5E5"> manager tell people when</font>
+factory factory manager tell people when
 
 228
 00:07:11,050 --> 00:07:12,610
-<font color="#E5E5E5">your projects being done why it's being</font>
+your projects being done why it's being
 
 229
 00:07:12,610 --> 00:07:14,020
-<font color="#E5E5E5">blocked what it's going</font><font color="#CCCCCC"> to look like</font>
+blocked what it's going to look like
 
 230
 00:07:14,020 --> 00:07:15,880
-<font color="#E5E5E5">just</font><font color="#CCCCCC"> set</font><font color="#E5E5E5"> those expectations and that's</font>
+just set those expectations and that's
 
 231
 00:07:15,880 --> 00:07:17,230
@@ -924,71 +924,71 @@ really all anybody really cares about
 
 232
 00:07:17,230 --> 00:07:19,930
-<font color="#CCCCCC">tip number</font><font color="#E5E5E5"> four is</font><font color="#CCCCCC"> to stop fixing all</font>
+tip number four is to stop fixing all
 
 233
 00:07:19,930 --> 00:07:21,550
-those bugs<font color="#CCCCCC"> that I've been</font><font color="#E5E5E5"> assigning you</font>
+those bugs that I've been assigning you
 
 234
 00:07:21,550 --> 00:07:24,130
-the fact is that<font color="#CCCCCC"> there are millions of</font>
+the fact is that there are millions of
 
 235
 00:07:24,130 --> 00:07:26,380
-bugs and I just pick one or<font color="#E5E5E5"> two</font><font color="#CCCCCC"> and I</font>
+bugs and I just pick one or two and I
 
 236
 00:07:26,380 --> 00:07:27,820
-send<font color="#E5E5E5"> them your way and then you suddenly</font>
+send them your way and then you suddenly
 
 237
 00:07:27,820 --> 00:07:29,620
-<font color="#E5E5E5">start thinking that</font><font color="#CCCCCC"> they're so important</font>
+start thinking that they're so important
 
 238
 00:07:29,620 --> 00:07:31,690
-and you focus<font color="#E5E5E5"> on them all the</font><font color="#CCCCCC"> time and</font>
+and you focus on them all the time and
 
 239
 00:07:31,690 --> 00:07:32,830
-<font color="#E5E5E5">you</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> keep</font><font color="#CCCCCC"> talking about</font><font color="#E5E5E5"> these</font>
+you just keep talking about these
 
 240
 00:07:32,830 --> 00:07:35,080
-<font color="#E5E5E5">smaller</font><font color="#CCCCCC"> bugs and</font><font color="#E5E5E5"> yeah you can solve them</font>
+smaller bugs and yeah you can solve them
 
 241
 00:07:35,080 --> 00:07:36,430
-and that's<font color="#CCCCCC"> great I'll just assign you</font>
+and that's great I'll just assign you
 
 242
 00:07:36,430 --> 00:07:37,600
-some<font color="#CCCCCC"> more</font><font color="#E5E5E5"> and there's just going</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> be</font>
+some more and there's just going to be
 
 243
 00:07:37,600 --> 00:07:39,370
-an<font color="#CCCCCC"> infinite amount and your real goal is</font>
+an infinite amount and your real goal is
 
 244
 00:07:39,370 --> 00:07:41,140
-not to<font color="#CCCCCC"> focus so much on all these small</font>
+not to focus so much on all these small
 
 245
 00:07:41,140 --> 00:07:42,460
-<font color="#E5E5E5">little bugs</font><font color="#CCCCCC"> that you've been</font><font color="#E5E5E5"> assigned</font>
+little bugs that you've been assigned
 
 246
 00:07:42,460 --> 00:07:44,140
-because<font color="#E5E5E5"> it's not going to make a dent</font>
+because it's not going to make a dent
 
 247
 00:07:44,140 --> 00:07:45,760
-<font color="#E5E5E5">and it doesn't really matter what you're</font>
+and it doesn't really matter what you're
 
 248
 00:07:45,760 --> 00:07:47,140
-really<font color="#CCCCCC"> ought to</font><font color="#E5E5E5"> do is to take on</font>
+really ought to do is to take on
 
 249
 00:07:47,140 --> 00:07:49,330
@@ -996,83 +996,83 @@ initiative to take ownership in an area
 
 250
 00:07:49,330 --> 00:07:51,730
-and by taking<font color="#E5E5E5"> on ownership you can build</font>
+and by taking on ownership you can build
 
 251
 00:07:51,730 --> 00:07:53,590
-<font color="#E5E5E5">something that can help expand the</font>
+something that can help expand the
 
 252
 00:07:53,590 --> 00:07:56,230
-<font color="#E5E5E5">team's roles responsibilities such that</font>
+team's roles responsibilities such that
 
 253
 00:07:56,230 --> 00:07:58,270
-<font color="#CCCCCC">your team can grow</font><font color="#E5E5E5"> get more budget hire</font>
+your team can grow get more budget hire
 
 254
 00:07:58,270 --> 00:07:59,830
-more<font color="#CCCCCC"> people and make</font><font color="#E5E5E5"> more impact</font>
+more people and make more impact
 
 255
 00:07:59,830 --> 00:08:01,600
-<font color="#CCCCCC">everything you do is really for this</font>
+everything you do is really for this
 
 256
 00:08:01,600 --> 00:08:04,000
-broader role<font color="#E5E5E5"> the task of</font><font color="#CCCCCC"> solving a few</font>
+broader role the task of solving a few
 
 257
 00:08:04,000 --> 00:08:05,530
-bugs here and there that's<font color="#CCCCCC"> always going</font>
+bugs here and there that's always going
 
 258
 00:08:05,530 --> 00:08:07,300
-to be<font color="#E5E5E5"> there and people can always hire</font>
+to be there and people can always hire
 
 259
 00:08:07,300 --> 00:08:09,340
-<font color="#E5E5E5">another junior engineer to be doing that</font>
+another junior engineer to be doing that
 
 260
 00:08:09,340 --> 00:08:10,690
-<font color="#E5E5E5">you</font><font color="#CCCCCC"> won't</font><font color="#E5E5E5"> be looking a</font><font color="#CCCCCC"> little</font><font color="#E5E5E5"> bit</font>
+you won't be looking a little bit
 
 261
 00:08:10,690 --> 00:08:12,370
-broader<font color="#E5E5E5"> than that everything before you</font>
+broader than that everything before you
 
 262
 00:08:12,370 --> 00:08:13,960
-can do<font color="#E5E5E5"> that it's going to</font><font color="#CCCCCC"> be training</font><font color="#E5E5E5"> to</font>
+can do that it's going to be training to
 
 263
 00:08:13,960 --> 00:08:16,000
-get<font color="#E5E5E5"> you to that point the last and final</font>
+get you to that point the last and final
 
 264
 00:08:16,000 --> 00:08:18,670
-tip<font color="#CCCCCC"> for you here is to</font><font color="#E5E5E5"> take in some</font>
+tip for you here is to take in some
 
 265
 00:08:18,670 --> 00:08:20,500
-feedback<font color="#CCCCCC"> you want to get out</font><font color="#E5E5E5"> of your</font>
+feedback you want to get out of your
 
 266
 00:08:20,500 --> 00:08:22,360
-comfort zone<font color="#E5E5E5"> when you're not comfortable</font>
+comfort zone when you're not comfortable
 
 267
 00:08:22,360 --> 00:08:23,950
-that<font color="#E5E5E5"> is when you're learning</font><font color="#CCCCCC"> we are in</font>
+that is when you're learning we are in
 
 268
 00:08:23,950 --> 00:08:25,510
-difficult situations that<font color="#E5E5E5"> you're not</font>
+difficult situations that you're not
 
 269
 00:08:25,510 --> 00:08:27,550
-familiar with<font color="#E5E5E5"> when you're doing tasks</font>
+familiar with when you're doing tasks
 
 270
 00:08:27,550 --> 00:08:28,570
@@ -1080,55 +1080,55 @@ that you don't know if you can
 
 271
 00:08:28,570 --> 00:08:30,400
-accomplish<font color="#E5E5E5"> or not when you're being</font>
+accomplish or not when you're being
 
 272
 00:08:30,400 --> 00:08:32,169
-challenged<font color="#CCCCCC"> that is when you are growing</font>
+challenged that is when you are growing
 
 273
 00:08:32,169 --> 00:08:34,840
-<font color="#E5E5E5">and similarly feedback will always make</font>
+and similarly feedback will always make
 
 274
 00:08:34,840 --> 00:08:37,120
-anybody uncomfortable<font color="#CCCCCC"> because that is</font>
+anybody uncomfortable because that is
 
 275
 00:08:37,120 --> 00:08:39,309
-when you start<font color="#CCCCCC"> understanding</font><font color="#E5E5E5"> where you</font>
+when you start understanding where you
 
 276
 00:08:39,309 --> 00:08:40,990
-messed<font color="#E5E5E5"> up where you could have improved</font>
+messed up where you could have improved
 
 277
 00:08:40,990 --> 00:08:43,030
-<font color="#CCCCCC">upon feedback</font><font color="#E5E5E5"> is generally something</font>
+upon feedback is generally something
 
 278
 00:08:43,030 --> 00:08:44,920
-<font color="#CCCCCC">that</font><font color="#E5E5E5"> you need somebody else to tell you</font>
+that you need somebody else to tell you
 
 279
 00:08:44,920 --> 00:08:46,420
-<font color="#E5E5E5">because when</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> look at</font><font color="#CCCCCC"> yourself</font><font color="#E5E5E5"> you</font>
+because when you look at yourself you
 
 280
 00:08:46,420 --> 00:08:48,490
-won't<font color="#E5E5E5"> be</font><font color="#CCCCCC"> able to see</font><font color="#E5E5E5"> your own</font><font color="#CCCCCC"> flaws you</font>
+won't be able to see your own flaws you
 
 281
 00:08:48,490 --> 00:08:50,440
-don't know what you don't<font color="#E5E5E5"> know which is</font>
+don't know what you don't know which is
 
 282
 00:08:50,440 --> 00:08:52,420
-why you need a third party<font color="#E5E5E5"> somebody</font>
+why you need a third party somebody
 
 283
 00:08:52,420 --> 00:08:54,790
-<font color="#E5E5E5">senior somebody like me that</font>
+senior somebody like me that
 
 284
 00:08:54,790 --> 00:08:57,220
@@ -1136,19 +1136,19 @@ lead to tell you what your flaws are
 
 285
 00:08:57,220 --> 00:08:59,320
-where you can<font color="#CCCCCC"> improve and obtaining</font><font color="#E5E5E5"> the</font>
+where you can improve and obtaining the
 
 286
 00:08:59,320 --> 00:09:01,540
-sort<font color="#E5E5E5"> of feedback it's not necessarily</font>
+sort of feedback it's not necessarily
 
 287
 00:09:01,540 --> 00:09:03,280
-going to be<font color="#E5E5E5"> that</font><font color="#CCCCCC"> easy</font><font color="#E5E5E5"> if you show that</font>
+going to be that easy if you show that
 
 288
 00:09:03,280 --> 00:09:05,320
-<font color="#E5E5E5">you cannot accept</font><font color="#CCCCCC"> the feedback if you</font>
+you cannot accept the feedback if you
 
 289
 00:09:05,320 --> 00:09:06,850
@@ -1156,121 +1156,121 @@ show that you're always challenging the
 
 290
 00:09:06,850 --> 00:09:09,040
-tech lead trying<font color="#E5E5E5"> to come up against them</font>
+tech lead trying to come up against them
 
 291
 00:09:09,040 --> 00:09:10,780
-trying to<font color="#E5E5E5"> disrupt their flow then</font>
+trying to disrupt their flow then
 
 292
 00:09:10,780 --> 00:09:11,980
-they're<font color="#E5E5E5"> not going to really give you</font>
+they're not going to really give you
 
 293
 00:09:11,980 --> 00:09:13,570
-<font color="#E5E5E5">honest good feedback they'll just say</font>
+honest good feedback they'll just say
 
 294
 00:09:13,570 --> 00:09:15,370
-yeah you're doing<font color="#CCCCCC"> fine</font><font color="#E5E5E5"> and you're going</font>
+yeah you're doing fine and you're going
 
 295
 00:09:15,370 --> 00:09:17,140
-<font color="#E5E5E5">to be left struggling over and over</font>
+to be left struggling over and over
 
 296
 00:09:17,140 --> 00:09:18,910
-<font color="#E5E5E5">because people are just not really</font>
+because people are just not really
 
 297
 00:09:18,910 --> 00:09:20,560
-<font color="#E5E5E5">willing to provide</font><font color="#CCCCCC"> you good honest</font>
+willing to provide you good honest
 
 298
 00:09:20,560 --> 00:09:22,090
-feedback<font color="#CCCCCC"> because it</font><font color="#E5E5E5"> doesn't seem like</font>
+feedback because it doesn't seem like
 
 299
 00:09:22,090 --> 00:09:23,440
-you're willing and able to<font color="#E5E5E5"> accept that</font>
+you're willing and able to accept that
 
 300
 00:09:23,440 --> 00:09:25,300
-<font color="#E5E5E5">when you can show that</font><font color="#CCCCCC"> you are willing</font>
+when you can show that you are willing
 
 301
 00:09:25,300 --> 00:09:27,430
-<font color="#E5E5E5">to learn willing to obey me</font>
+to learn willing to obey me
 
 302
 00:09:27,430 --> 00:09:30,370
-word for<font color="#E5E5E5"> word</font><font color="#CCCCCC"> I tell you to do</font><font color="#E5E5E5"> something</font>
+word for word I tell you to do something
 
 303
 00:09:30,370 --> 00:09:32,860
-<font color="#CCCCCC">and you do it</font><font color="#E5E5E5"> then you are</font><font color="#CCCCCC"> going</font><font color="#E5E5E5"> to be</font>
+and you do it then you are going to be
 
 304
 00:09:32,860 --> 00:09:34,060
-in a state in<font color="#CCCCCC"> which you are</font><font color="#E5E5E5"> ready to</font>
+in a state in which you are ready to
 
 305
 00:09:34,060 --> 00:09:36,430
-<font color="#CCCCCC">accept feedback</font><font color="#E5E5E5"> in which I can tell you</font>
+accept feedback in which I can tell you
 
 306
 00:09:36,430 --> 00:09:38,170
-where you need<font color="#CCCCCC"> to improve and then you</font>
+where you need to improve and then you
 
 307
 00:09:38,170 --> 00:09:40,240
-can go off and<font color="#E5E5E5"> improve yourself my first</font>
+can go off and improve yourself my first
 
 308
 00:09:40,240 --> 00:09:42,220
-<font color="#CCCCCC">assignment for</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> is to subscribe to</font>
+assignment for you is to subscribe to
 
 309
 00:09:42,220 --> 00:09:43,840
-this video<font color="#E5E5E5"> give it a like and subscribe</font>
+this video give it a like and subscribe
 
 310
 00:09:43,840 --> 00:09:47,230
-<font color="#CCCCCC">okay so let's</font><font color="#E5E5E5"> start</font><font color="#CCCCCC"> with</font><font color="#E5E5E5"> that and then</font>
+okay so let's start with that and then
 
 311
 00:09:47,230 --> 00:09:49,720
-<font color="#E5E5E5">you will be well on your way to</font><font color="#CCCCCC"> not</font>
+you will be well on your way to not
 
 312
 00:09:49,720 --> 00:09:52,000
-becoming<font color="#E5E5E5"> a junior software engineer and</font>
+becoming a junior software engineer and
 
 313
 00:09:52,000 --> 00:09:53,500
-without<font color="#CCCCCC"> though for me I hope</font><font color="#E5E5E5"> you found</font>
+without though for me I hope you found
 
 314
 00:09:53,500 --> 00:09:55,210
-these<font color="#CCCCCC"> tips useful if you didn't just</font>
+these tips useful if you didn't just
 
 315
 00:09:55,210 --> 00:09:57,370
-remember<font color="#E5E5E5"> that I am</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> X Go Go tech lead</font>
+remember that I am the X Go Go tech lead
 
 316
 00:09:57,370 --> 00:09:58,930
-let me know your<font color="#CCCCCC"> thoughts on junior</font>
+let me know your thoughts on junior
 
 317
 00:09:58,930 --> 00:10:00,490
-software engineers if you<font color="#CCCCCC"> like the</font><font color="#E5E5E5"> video</font>
+software engineers if you like the video
 
 318
 00:10:00,490 --> 00:10:01,840
-<font color="#E5E5E5">give</font><font color="#CCCCCC"> it a like and</font><font color="#E5E5E5"> subscribe</font><font color="#CCCCCC"> I'll see</font>
+give it a like and subscribe I'll see
 
 319
 00:10:01,840 --> 00:00:00,000
-<font color="#E5E5E5">you next time bye</font>
+you next time bye
 
