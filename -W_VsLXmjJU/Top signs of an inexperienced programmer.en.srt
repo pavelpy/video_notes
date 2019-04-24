@@ -1,0 +1,1476 @@
+﻿1
+00:00:00,030 --> 00:00:02,040
+hey tech light here and welcome back to
+
+2
+00:00:02,040 --> 00:00:03,750
+another episode today we are going to
+
+3
+00:00:03,750 --> 00:00:05,520
+talk about the top signs of an
+
+4
+00:00:05,520 --> 00:00:08,280
+inexperienced programmer it is coffee
+
+5
+00:00:08,280 --> 00:00:10,380
+time we are having a coca-cola a lot of
+
+6
+00:00:10,380 --> 00:00:12,980
+people like to hate on coca-cola but
+
+7
+00:00:12,980 --> 00:00:16,680
+it's not so bad nothing wrong with that
+
+8
+00:00:16,680 --> 00:00:19,619
+this video is sponsored by coca-cola for
+
+9
+00:00:19,619 --> 00:00:22,560
+fun times have a coca-cola is what I
+
+10
+00:00:22,560 --> 00:00:24,660
+would not say because I'm not sponsored
+
+11
+00:00:24,660 --> 00:00:27,869
+by coca-cola this video by the way is
+
+12
+00:00:27,869 --> 00:00:31,080
+sponsored by audible.com slash tech lead
+
+13
+00:00:31,080 --> 00:00:32,910
+check them out for your free audio book
+
+14
+00:00:32,910 --> 00:00:35,309
+I use all the time I've been listening
+
+15
+00:00:35,309 --> 00:00:37,079
+to audio books on my commute saving a
+
+16
+00:00:37,079 --> 00:00:39,360
+lot of time currently I'm listening to 0
+
+17
+00:00:39,360 --> 00:00:41,370
+to 1 by Peter Thiel that's great book
+
+18
+00:00:41,370 --> 00:00:43,170
+lots of lessons from experienced people
+
+19
+00:00:43,170 --> 00:00:45,210
+they've got tons of audiobooks available
+
+20
+00:00:45,210 --> 00:00:46,530
+whatever you're interested in reading
+
+21
+00:00:46,530 --> 00:00:48,719
+remember that audible is actually owned
+
+22
+00:00:48,719 --> 00:00:51,000
+by Amazon so their selection is massive
+
+23
+00:00:51,000 --> 00:00:52,530
+check them out get your free audiobook
+
+24
+00:00:52,530 --> 00:00:54,539
+of the boat ride home slash tech elite
+
+25
+00:00:54,539 --> 00:00:56,370
+you know it's a funny thing that all new
+
+26
+00:00:56,370 --> 00:00:58,350
+engineers exhibit certain traits and
+
+27
+00:00:58,350 --> 00:01:00,719
+just by looking at the way they act the
+
+28
+00:01:00,719 --> 00:01:02,219
+patterns that they go about in their
+
+29
+00:01:02,219 --> 00:01:04,140
+daily routines the code that they output
+
+30
+00:01:04,140 --> 00:01:05,909
+you can pretty much tell who's an
+
+31
+00:01:05,909 --> 00:01:07,619
+experienced engineer and who's new and
+
+32
+00:01:07,619 --> 00:01:09,630
+these new engineers all go through the
+
+33
+00:01:09,630 --> 00:01:11,939
+same things and it takes them sometimes
+
+34
+00:01:11,939 --> 00:01:13,860
+months sometimes years to outgrow their
+
+35
+00:01:13,860 --> 00:01:16,680
+behaviors to turn pro so to speak every
+
+36
+00:01:16,680 --> 00:01:18,000
+new engineer has to go through this
+
+37
+00:01:18,000 --> 00:01:19,920
+training and every single company and
+
+38
+00:01:19,920 --> 00:01:21,840
+it's just tiresome these same lessons
+
+39
+00:01:21,840 --> 00:01:23,520
+need to be repeated over and over again
+
+40
+00:01:23,520 --> 00:01:25,350
+I thought I would just give you guys the
+
+41
+00:01:25,350 --> 00:01:27,119
+basic tip such that when you get started
+
+42
+00:01:27,119 --> 00:01:29,040
+or if you're already working then you're
+
+43
+00:01:29,040 --> 00:01:30,840
+going to be well on your way and people
+
+44
+00:01:30,840 --> 00:01:32,250
+aren't going to have to give to you the
+
+45
+00:01:32,250 --> 00:01:34,290
+same lessons over and over again you
+
+46
+00:01:34,290 --> 00:01:36,000
+know it's funny that when you start
+
+47
+00:01:36,000 --> 00:01:37,710
+working at say a company like Google
+
+48
+00:01:37,710 --> 00:01:40,380
+they like to haze you in your first code
+
+49
+00:01:40,380 --> 00:01:42,600
+reviews they will leave you hundreds if
+
+50
+00:01:42,600 --> 00:01:44,460
+not millions of comments in your first
+
+51
+00:01:44,460 --> 00:01:46,680
+div output that you're trying to commit
+
+52
+00:01:46,680 --> 00:01:48,600
+and people just say hey this is wrong
+
+53
+00:01:48,600 --> 00:01:50,130
+this line of code wrong this line of
+
+54
+00:01:50,130 --> 00:01:52,229
+code bad there would be so many pedantic
+
+55
+00:01:52,229 --> 00:01:53,909
+comments that many people just end up
+
+56
+00:01:53,909 --> 00:01:56,070
+quitting the next day and that's the
+
+57
+00:01:56,070 --> 00:01:57,329
+funny thing a lot of people don't know
+
+58
+00:01:57,329 --> 00:01:59,219
+is that of the people who get in to say
+
+59
+00:01:59,219 --> 00:02:01,350
+Google as an engineer about half quit
+
+60
+00:02:01,350 --> 00:02:02,969
+before they even submit their first line
+
+61
+00:02:02,969 --> 00:02:05,399
+of code so let's get into it the first
+
+62
+00:02:05,399 --> 00:02:07,619
+tip and this has been repeated over and
+
+63
+00:02:07,619 --> 00:02:10,229
+over again is keep your dev sizes small
+
+64
+00:02:10,229 --> 00:02:12,599
+keep your commit small chances are when
+
+65
+00:02:12,599 --> 00:02:13,740
+you first start you're going to
+
+66
+00:02:13,740 --> 00:02:15,720
+a starter project that's going to
+
+67
+00:02:15,720 --> 00:02:17,580
+require a sizeable chunk of code to
+
+68
+00:02:17,580 --> 00:02:19,590
+complete some feature and the key to
+
+69
+00:02:19,590 --> 00:02:21,060
+know here is this isn't so much about
+
+70
+00:02:21,060 --> 00:02:22,680
+completely in the future it's probably a
+
+71
+00:02:22,680 --> 00:02:24,360
+useless feature that nobody even cares
+
+72
+00:02:24,360 --> 00:02:26,550
+about what people really want to see you
+
+73
+00:02:26,550 --> 00:02:28,410
+do is start learning the coding practice
+
+74
+00:02:28,410 --> 00:02:31,110
+is the development process in which you
+
+75
+00:02:31,110 --> 00:02:32,640
+get a code submitted and this really
+
+76
+00:02:32,640 --> 00:02:34,020
+involves the process in which you break
+
+77
+00:02:34,020 --> 00:02:35,820
+down the project into bite-sized chunks
+
+78
+00:02:35,820 --> 00:02:37,920
+and you submit targeted small pieces of
+
+79
+00:02:37,920 --> 00:02:40,230
+code one at a time instead of submitting
+
+80
+00:02:40,230 --> 00:02:42,930
+the whole thing and chances are when you
+
+81
+00:02:42,930 --> 00:02:44,670
+submit this whole piece of code for a
+
+82
+00:02:44,670 --> 00:02:46,530
+code review and it's thousands of lines
+
+83
+00:02:46,530 --> 00:02:48,000
+of code people are just going to look at
+
+84
+00:02:48,000 --> 00:02:50,250
+it and say hey yeah this one line here
+
+85
+00:02:50,250 --> 00:02:51,660
+this one way that you did this was
+
+86
+00:02:51,660 --> 00:02:53,070
+entirely wrong and the whole thing needs
+
+87
+00:02:53,070 --> 00:02:54,690
+to be redone when you get started
+
+88
+00:02:54,690 --> 00:02:56,070
+there's a high chance you're going to
+
+89
+00:02:56,070 --> 00:02:57,960
+fundamentally get some pattern some
+
+90
+00:02:57,960 --> 00:02:59,670
+design or architecture of your program
+
+91
+00:02:59,670 --> 00:03:01,590
+wrong it's going to change the whole way
+
+92
+00:03:01,590 --> 00:03:03,240
+that the thing is going to be written so
+
+93
+00:03:03,240 --> 00:03:04,590
+if you submit small-sized ifs
+
+94
+00:03:04,590 --> 00:03:06,330
+incrementally people can help make sure
+
+95
+00:03:06,330 --> 00:03:07,950
+that you're on the right track you're
+
+96
+00:03:07,950 --> 00:03:09,780
+not wasting too much time and it also
+
+97
+00:03:09,780 --> 00:03:11,460
+makes it easier to land your diffs
+
+98
+00:03:11,460 --> 00:03:12,930
+because it's simply easier to get
+
+99
+00:03:12,930 --> 00:03:14,880
+approval on small size chunks of code
+
+100
+00:03:14,880 --> 00:03:17,160
+are very targeted instead of a whole
+
+101
+00:03:17,160 --> 00:03:19,380
+menagerie of random divs many times I
+
+102
+00:03:19,380 --> 00:03:21,090
+will actually write my code in an editor
+
+103
+00:03:21,090 --> 00:03:22,950
+that shows line by line tips of what
+
+104
+00:03:22,950 --> 00:03:24,990
+changes are making like Visual Studio
+
+105
+00:03:24,990 --> 00:03:27,450
+code or Adam will show this and this
+
+106
+00:03:27,450 --> 00:03:28,740
+helps ensure that you're not just
+
+107
+00:03:28,740 --> 00:03:30,330
+changing random lines of text that don't
+
+108
+00:03:30,330 --> 00:03:32,160
+need to be changed almost every company
+
+109
+00:03:32,160 --> 00:03:33,750
+I go through they beat this one lesson
+
+110
+00:03:33,750 --> 00:03:36,330
+about having small tips over and over to
+
+111
+00:03:36,330 --> 00:03:38,580
+new engineers if you go into the company
+
+112
+00:03:38,580 --> 00:03:39,720
+already knowing this you're going to be
+
+113
+00:03:39,720 --> 00:03:40,140
+set
+
+114
+00:03:40,140 --> 00:03:42,000
+now the second sign of a new and
+
+115
+00:03:42,000 --> 00:03:44,190
+experienced developer is just crazy
+
+116
+00:03:44,190 --> 00:03:46,560
+tangled code crazy logic all over the
+
+117
+00:03:46,560 --> 00:03:48,750
+place huge functions tons of if
+
+118
+00:03:48,750 --> 00:03:50,520
+statements all over the place random
+
+119
+00:03:50,520 --> 00:03:52,290
+helper methods everywhere premature
+
+120
+00:03:52,290 --> 00:03:54,390
+optimization over engineered garbage
+
+121
+00:03:54,390 --> 00:03:56,670
+code and so country - what you might
+
+122
+00:03:56,670 --> 00:03:58,920
+imagine bad code is not simply code that
+
+123
+00:03:58,920 --> 00:04:00,600
+has a ton of bugs doesn't compile
+
+124
+00:04:00,600 --> 00:04:02,850
+doesn't work a decent engineer will at
+
+125
+00:04:02,850 --> 00:04:03,990
+least be able to get their code to
+
+126
+00:04:03,990 --> 00:04:06,300
+compile to work and is even going to run
+
+127
+00:04:06,300 --> 00:04:09,300
+and function okay but the way the logic
+
+128
+00:04:09,300 --> 00:04:11,340
+is set up the way the code is written is
+
+129
+00:04:11,340 --> 00:04:12,930
+going to look completely horrible it's
+
+130
+00:04:12,930 --> 00:04:14,850
+gonna look like garbage code tangled
+
+131
+00:04:14,850 --> 00:04:17,279
+totally messy complex stuff and it's
+
+132
+00:04:17,279 --> 00:04:18,810
+pretty much going to be a complete pain
+
+133
+00:04:18,810 --> 00:04:20,670
+to read many times I would just get a
+
+134
+00:04:20,670 --> 00:04:22,410
+headache after reading some beginners
+
+135
+00:04:22,410 --> 00:04:23,880
+code and then I have to get up and get a
+
+136
+00:04:23,880 --> 00:04:25,950
+coffee break my recommendation here is
+
+137
+00:04:25,950 --> 00:04:27,270
+write at design talk
+
+138
+00:04:27,270 --> 00:04:29,190
+right a document that describes what
+
+139
+00:04:29,190 --> 00:04:30,449
+you're going to build what the future
+
+140
+00:04:30,449 --> 00:04:32,400
+requirements are how you're going to set
+
+141
+00:04:32,400 --> 00:04:34,110
+things up which functions you're going
+
+142
+00:04:34,110 --> 00:04:35,550
+to need which classes what data
+
+143
+00:04:35,550 --> 00:04:37,319
+structures you might need and then just
+
+144
+00:04:37,319 --> 00:04:39,210
+go build those out and that should help
+
+145
+00:04:39,210 --> 00:04:41,310
+you organize your ideas is very obvious
+
+146
+00:04:41,310 --> 00:04:42,780
+actually when I see code that was
+
+147
+00:04:42,780 --> 00:04:44,280
+written without design dog because
+
+148
+00:04:44,280 --> 00:04:46,770
+there's just repeated duplicate code
+
+149
+00:04:46,770 --> 00:04:49,259
+logic if statements all over the place
+
+150
+00:04:49,259 --> 00:04:51,840
+it somehow manages to work I mean the
+
+151
+00:04:51,840 --> 00:04:53,430
+code is going to work fine but it's just
+
+152
+00:04:53,430 --> 00:04:55,229
+going to look like pretty crazy code I'm
+
+153
+00:04:55,229 --> 00:04:56,520
+probably going to go ahead and approve
+
+154
+00:04:56,520 --> 00:04:58,020
+your code anyway but I know it's going
+
+155
+00:04:58,020 --> 00:05:00,419
+to cause you a lot of hell later on as
+
+156
+00:05:00,419 --> 00:05:01,440
+you're going to become the one
+
+157
+00:05:01,440 --> 00:05:02,729
+maintaining this code throughout your
+
+158
+00:05:02,729 --> 00:05:04,080
+career and it's just going to slow you
+
+159
+00:05:04,080 --> 00:05:06,270
+down through the rest of your job over
+
+160
+00:05:06,270 --> 00:05:07,620
+the months as you're going to have to
+
+161
+00:05:07,620 --> 00:05:09,090
+start adding features to this code
+
+162
+00:05:09,090 --> 00:05:10,319
+you're going to have to start reading it
+
+163
+00:05:10,319 --> 00:05:11,460
+and there's just going to be bugs
+
+164
+00:05:11,460 --> 00:05:13,440
+introduced every single time you tried
+
+165
+00:05:13,440 --> 00:05:15,270
+to modify the code you're going to have
+
+166
+00:05:15,270 --> 00:05:16,830
+to make changes in the whole bunch of
+
+167
+00:05:16,830 --> 00:05:18,750
+different areas the logic is going to be
+
+168
+00:05:18,750 --> 00:05:20,789
+pretty loopy right design dog save
+
+169
+00:05:20,789 --> 00:05:22,349
+yourself sometimes gonna make you look a
+
+170
+00:05:22,349 --> 00:05:25,229
+little bit better too the third trait of
+
+171
+00:05:25,229 --> 00:05:27,419
+a new and experienced developer is low
+
+172
+00:05:27,419 --> 00:05:29,520
+effectiveness now don't get me wrong
+
+173
+00:05:29,520 --> 00:05:31,050
+everyone's working hard everyone's
+
+174
+00:05:31,050 --> 00:05:32,400
+trying to prove themselves they know
+
+175
+00:05:32,400 --> 00:05:33,840
+they're new they're trying to do things
+
+176
+00:05:33,840 --> 00:05:35,969
+but they're just not effective and they
+
+177
+00:05:35,969 --> 00:05:38,490
+end up wasting tons of time I know guy
+
+178
+00:05:38,490 --> 00:05:40,199
+who was working on this feature for
+
+179
+00:05:40,199 --> 00:05:42,090
+months and it was a pretty complicated
+
+180
+00:05:42,090 --> 00:05:44,430
+UI in fact the UI was essentially
+
+181
+00:05:44,430 --> 00:05:46,409
+impossible to do you know the UI
+
+182
+00:05:46,409 --> 00:05:48,120
+designers just came up with it and he
+
+183
+00:05:48,120 --> 00:05:49,860
+started trying to work on it and coming
+
+184
+00:05:49,860 --> 00:05:52,259
+up with totally convoluted code none of
+
+185
+00:05:52,259 --> 00:05:53,550
+it was really done well it was very
+
+186
+00:05:53,550 --> 00:05:56,460
+hacky stuff and I think he just wasn't
+
+187
+00:05:56,460 --> 00:05:58,139
+having his eye on the goal he was just
+
+188
+00:05:58,139 --> 00:05:59,909
+obsessed with maybe doing a bunch of
+
+189
+00:05:59,909 --> 00:06:02,130
+groundwork this project never launched
+
+190
+00:06:02,130 --> 00:06:04,530
+by the way and later on I came up with a
+
+191
+00:06:04,530 --> 00:06:06,569
+better solution for it I pushed back on
+
+192
+00:06:06,569 --> 00:06:08,400
+the UI designers loop and said hey if we
+
+193
+00:06:08,400 --> 00:06:10,110
+do it this way it's going to be much
+
+194
+00:06:10,110 --> 00:06:11,460
+easier to implement it's going to look
+
+195
+00:06:11,460 --> 00:06:13,080
+good too and so I would say don't just
+
+196
+00:06:13,080 --> 00:06:15,569
+code for coding sake look at the forest
+
+197
+00:06:15,569 --> 00:06:17,280
+not the trees keep your eye on the
+
+198
+00:06:17,280 --> 00:06:18,810
+vision the goal that you're trying to
+
+199
+00:06:18,810 --> 00:06:20,610
+make happen and make sure that your code
+
+200
+00:06:20,610 --> 00:06:22,380
+at least ships and if you don't foresee
+
+201
+00:06:22,380 --> 00:06:23,550
+your code ship and try to clear the
+
+202
+00:06:23,550 --> 00:06:25,199
+roadblocks for that make sure that you
+
+203
+00:06:25,199 --> 00:06:27,419
+can get your impact in where you can you
+
+204
+00:06:27,419 --> 00:06:29,520
+also want to keep an eye on your APM
+
+205
+00:06:29,520 --> 00:06:31,620
+actions per minute I don't love
+
+206
+00:06:31,620 --> 00:06:33,690
+engineers they go in and they spend the
+
+207
+00:06:33,690 --> 00:06:35,159
+whole day surfing reddit checking
+
+208
+00:06:35,159 --> 00:06:37,380
+Facebook social media blogs Twitter
+
+209
+00:06:37,380 --> 00:06:40,169
+surfing news and I look at these new
+
+210
+00:06:40,169 --> 00:06:40,830
+engineers
+
+211
+00:06:40,830 --> 00:06:42,509
+half the time they're watching a YouTube
+
+212
+00:06:42,509 --> 00:06:43,860
+video of someone playing the game maybe
+
+213
+00:06:43,860 --> 00:06:45,270
+they're the one playing the game maybe
+
+214
+00:06:45,270 --> 00:06:47,039
+they're even broadcasting that game and
+
+215
+00:06:47,039 --> 00:06:48,810
+that's all great people can work like
+
+216
+00:06:48,810 --> 00:06:50,580
+that think of work on their own time if
+
+217
+00:06:50,580 --> 00:06:52,289
+they like and I used to sort of do this
+
+218
+00:06:52,289 --> 00:06:54,120
+- I was going to work and I would have
+
+219
+00:06:54,120 --> 00:06:55,710
+one window maybe I'll do some online
+
+220
+00:06:55,710 --> 00:06:57,720
+shopping whatever it is I want to do but
+
+221
+00:06:57,720 --> 00:06:59,009
+the thing is when you play a game like
+
+222
+00:06:59,009 --> 00:07:00,750
+Starcraft you notice that whoever has
+
+223
+00:07:00,750 --> 00:07:02,490
+the highest APM usually wins the match
+
+224
+00:07:02,490 --> 00:07:04,530
+in the Starcraft game not always but
+
+225
+00:07:04,530 --> 00:07:05,909
+usually it really goes a long way so
+
+226
+00:07:05,909 --> 00:07:07,740
+that's really the same thing for
+
+227
+00:07:07,740 --> 00:07:09,750
+developers as well if you're spending
+
+228
+00:07:09,750 --> 00:07:11,580
+any available time you have on the job
+
+229
+00:07:11,580 --> 00:07:13,259
+for instance just imagine how much more
+
+230
+00:07:13,259 --> 00:07:15,960
+productive you might be able to be you
+
+231
+00:07:15,960 --> 00:07:17,460
+know you could get probably a lot more
+
+232
+00:07:17,460 --> 00:07:19,620
+code submitted read a lot Co learn about
+
+233
+00:07:19,620 --> 00:07:21,419
+the codebase come up with ideas you
+
+234
+00:07:21,419 --> 00:07:22,830
+could get a whole bunch done and I would
+
+235
+00:07:22,830 --> 00:07:24,300
+say that one flaw of new engineers is
+
+236
+00:07:24,300 --> 00:07:25,800
+sometimes I'll take a look at that code
+
+237
+00:07:25,800 --> 00:07:28,229
+output after a whole week and they may
+
+238
+00:07:28,229 --> 00:07:30,360
+have submitted like one or two pieces of
+
+239
+00:07:30,360 --> 00:07:31,919
+code the whole week and just a reminder
+
+240
+00:07:31,919 --> 00:07:34,319
+how is it possible that somebody could
+
+241
+00:07:34,319 --> 00:07:36,449
+spend five days I had a job and some a
+
+242
+00:07:36,449 --> 00:07:38,069
+only two pieces of code or even one
+
+243
+00:07:38,069 --> 00:07:39,870
+piece of code or none in the whole week
+
+244
+00:07:39,870 --> 00:07:42,000
+and then I remember oh yeah that's right
+
+245
+00:07:42,000 --> 00:07:43,680
+they were probably playing games that
+
+246
+00:07:43,680 --> 00:07:45,029
+whole time maybe they were doing online
+
+247
+00:07:45,029 --> 00:07:47,699
+shopping who knows and it's kind of no
+
+248
+00:07:47,699 --> 00:07:49,440
+wonder that for a lot of these people
+
+249
+00:07:49,440 --> 00:07:51,690
+their productivity is just very low my
+
+250
+00:07:51,690 --> 00:07:53,219
+recommendation is tried to get at least
+
+251
+00:07:53,219 --> 00:07:54,719
+one piece of code so made that per day
+
+252
+00:07:54,719 --> 00:07:56,580
+that'll keep you on track make that just
+
+253
+00:07:56,580 --> 00:07:58,110
+a personal go for yourself that'll keep
+
+254
+00:07:58,110 --> 00:08:00,060
+you going the fourth son of an
+
+255
+00:08:00,060 --> 00:08:01,650
+experienced engineer is they usually
+
+256
+00:08:01,650 --> 00:08:03,690
+have a lot of pride a lot of ego a lot
+
+257
+00:08:03,690 --> 00:08:05,490
+of arrogance and this is something that
+
+258
+00:08:05,490 --> 00:08:07,199
+you see other lot of computer science
+
+259
+00:08:07,199 --> 00:08:08,789
+students coming out of college for
+
+260
+00:08:08,789 --> 00:08:10,680
+instance their arrogance is just
+
+261
+00:08:10,680 --> 00:08:12,539
+incredible the worst is when I'm
+
+262
+00:08:12,539 --> 00:08:14,610
+reviewing a new engineers code and I
+
+263
+00:08:14,610 --> 00:08:15,810
+decide to leave like say a hundred
+
+264
+00:08:15,810 --> 00:08:18,029
+comments and then the engineer comes by
+
+265
+00:08:18,029 --> 00:08:19,889
+my desk and personally asks me about
+
+266
+00:08:19,889 --> 00:08:21,750
+each comment and tries to justify why
+
+267
+00:08:21,750 --> 00:08:23,580
+he's right about each one and then I
+
+268
+00:08:23,580 --> 00:08:25,169
+have to get in a little argument about
+
+269
+00:08:25,169 --> 00:08:27,090
+each one with him and he's trying to
+
+270
+00:08:27,090 --> 00:08:28,770
+defend himself and laughing at other
+
+271
+00:08:28,770 --> 00:08:30,479
+people who may be more stupid than him
+
+272
+00:08:30,479 --> 00:08:31,949
+trying to sound cool trying to sound
+
+273
+00:08:31,949 --> 00:08:34,320
+smart it's like look I don't care if you
+
+274
+00:08:34,320 --> 00:08:35,820
+think you're cool I don't care if you
+
+275
+00:08:35,820 --> 00:08:37,260
+think I think you're cool if you want me
+
+276
+00:08:37,260 --> 00:08:38,909
+to say you're cool fine you're cool I'm
+
+277
+00:08:38,909 --> 00:08:40,890
+cool we're all cool everybody's cool I'm
+
+278
+00:08:40,890 --> 00:08:43,469
+just cooler than you okay so the thing
+
+279
+00:08:43,469 --> 00:08:45,269
+about arrogance is it has a lot of other
+
+280
+00:08:45,269 --> 00:08:47,579
+effects as well for example it causes
+
+281
+00:08:47,579 --> 00:08:49,770
+engineers to over engineer their code to
+
+282
+00:08:49,770 --> 00:08:51,300
+make it look really smart and clever
+
+283
+00:08:51,300 --> 00:08:53,730
+keep it simple also I would recommend
+
+284
+00:08:53,730 --> 00:08:54,500
+that you swallow
+
+285
+00:08:54,500 --> 00:08:56,120
+your pride and go as for questions as
+
+286
+00:08:56,120 --> 00:08:57,860
+for help when you need it it can save
+
+287
+00:08:57,860 --> 00:08:59,480
+you a ton of time this kind of goes back
+
+288
+00:08:59,480 --> 00:09:01,940
+to being ineffective love new engineers
+
+289
+00:09:01,940 --> 00:09:03,290
+just want to tackle everything on their
+
+290
+00:09:03,290 --> 00:09:04,640
+own they spend a lot of time doing
+
+291
+00:09:04,640 --> 00:09:06,110
+things on their own a week or two later
+
+292
+00:09:06,110 --> 00:09:07,880
+they surface again with a bunch of
+
+293
+00:09:07,880 --> 00:09:09,710
+garbage code that they've written and I
+
+294
+00:09:09,710 --> 00:09:10,910
+have to say this whole thing was wrong
+
+295
+00:09:10,910 --> 00:09:12,410
+this whole thing was just no good I wish
+
+296
+00:09:12,410 --> 00:09:13,910
+they would just asked an experienced
+
+297
+00:09:13,910 --> 00:09:15,980
+developer like myself what I would've
+
+298
+00:09:15,980 --> 00:09:17,240
+approved and that could have saved
+
+299
+00:09:17,240 --> 00:09:19,490
+everyone a lot of time my last time
+
+300
+00:09:19,490 --> 00:09:21,170
+final tip the sign of an inexperienced
+
+301
+00:09:21,170 --> 00:09:23,120
+engineer is somebody who does not
+
+302
+00:09:23,120 --> 00:09:25,610
+identify and respect the tech lead
+
+303
+00:09:25,610 --> 00:09:28,010
+that's me make sure that you know who
+
+304
+00:09:28,010 --> 00:09:29,870
+the tech lead is I'm not talking about
+
+305
+00:09:29,870 --> 00:09:31,520
+your manager I'm not talking about your
+
+306
+00:09:31,520 --> 00:09:33,320
+boss you may already have a tech lead at
+
+307
+00:09:33,320 --> 00:09:35,210
+your company that may not be the tech
+
+308
+00:09:35,210 --> 00:09:36,980
+lead that person could be X Microsoft
+
+309
+00:09:36,980 --> 00:09:41,000
+for example I am X Google ok X could go
+
+310
+00:09:41,000 --> 00:09:42,590
+tech lead you want to make sure you know
+
+311
+00:09:42,590 --> 00:09:44,150
+who the tech lead is now I have a story
+
+312
+00:09:44,150 --> 00:09:45,770
+for you one time there was this engineer
+
+313
+00:09:45,770 --> 00:09:47,840
+he did not respect the tech lead he
+
+314
+00:09:47,840 --> 00:09:49,970
+dared not to and let me just tell you
+
+315
+00:09:49,970 --> 00:09:51,380
+what happened to him because this is
+
+316
+00:09:51,380 --> 00:09:52,880
+going to be a good lesson for all of you
+
+317
+00:09:52,880 --> 00:09:54,800
+he started proposing tons of random code
+
+318
+00:09:54,800 --> 00:09:57,920
+for his project no design doc huge tips
+
+319
+00:09:57,920 --> 00:10:00,800
+very complicated logic and I pushed back
+
+320
+00:10:00,800 --> 00:10:02,510
+on and said yeah this isn't going to
+
+321
+00:10:02,510 --> 00:10:04,580
+work he did not respect my comments and
+
+322
+00:10:04,580 --> 00:10:06,200
+kept pushing forward with his code he
+
+323
+00:10:06,200 --> 00:10:08,300
+kept proposing tons of code disappeared
+
+324
+00:10:08,300 --> 00:10:10,100
+came back two weeks later with a bunch
+
+325
+00:10:10,100 --> 00:10:12,500
+more additional code didn't listen to a
+
+326
+00:10:12,500 --> 00:10:14,330
+single comment that I suggested for him
+
+327
+00:10:14,330 --> 00:10:16,310
+and I blocked every single code that he
+
+328
+00:10:16,310 --> 00:10:17,690
+tried to put in that's right I would
+
+329
+00:10:17,690 --> 00:10:19,220
+block his code I would just spend all my
+
+330
+00:10:19,220 --> 00:10:20,930
+time writing millions of comments and he
+
+331
+00:10:20,930 --> 00:10:22,280
+would have to write millions of replies
+
+332
+00:10:22,280 --> 00:10:24,410
+back eventually we started just writing
+
+333
+00:10:24,410 --> 00:10:26,480
+essays on these tips we stopped coding
+
+334
+00:10:26,480 --> 00:10:28,339
+really his effectiveness his code output
+
+335
+00:10:28,339 --> 00:10:30,170
+dropped to zero you know what happened
+
+336
+00:10:30,170 --> 00:10:33,140
+to him he got fired that's right so
+
+337
+00:10:33,140 --> 00:10:34,880
+that's one lesson for you if you don't
+
+338
+00:10:34,880 --> 00:10:37,220
+respect the tech lead I would recommend
+
+339
+00:10:37,220 --> 00:10:39,589
+if I are you to actually be nice to the
+
+340
+00:10:39,589 --> 00:10:41,060
+tech lead do whatever you can for him
+
+341
+00:10:41,060 --> 00:10:42,710
+you know bring him lunch bring him tea
+
+342
+00:10:42,710 --> 00:10:44,900
+one little trick you can do is instead
+
+343
+00:10:44,900 --> 00:10:46,850
+of having you submit code come up with a
+
+344
+00:10:46,850 --> 00:10:47,360
+diff
+
+345
+00:10:47,360 --> 00:10:49,430
+mail it to the tech lead and then the
+
+346
+00:10:49,430 --> 00:10:50,870
+tech lead to a patch your dip in and
+
+347
+00:10:50,870 --> 00:10:53,060
+then submit that for you and that way
+
+348
+00:10:53,060 --> 00:10:54,980
+the tech lead will get credit for the
+
+349
+00:10:54,980 --> 00:10:55,339
+dips
+
+350
+00:10:55,339 --> 00:10:56,720
+it just helps increase the number of
+
+351
+00:10:56,720 --> 00:10:58,370
+dips that the tech leader is putting out
+
+352
+00:10:58,370 --> 00:11:01,040
+what you can also do is when you write
+
+353
+00:11:01,040 --> 00:11:03,110
+design documents but the tech Lee's name
+
+354
+00:11:03,110 --> 00:11:04,760
+on it even if I have no part in the
+
+355
+00:11:04,760 --> 00:11:07,130
+design dock or presentation or email or
+
+356
+00:11:07,130 --> 00:11:08,420
+post or whatever it is that your
+
+357
+00:11:08,420 --> 00:11:10,250
+writing just put my name there in the
+
+358
+00:11:10,250 --> 00:11:12,019
+authors to credit this line that would
+
+359
+00:11:12,019 --> 00:11:13,430
+be great I would appreciate that that
+
+360
+00:11:13,430 --> 00:11:14,899
+helps me get a little bit more credit a
+
+361
+00:11:14,899 --> 00:11:16,670
+little bit more awareness for people
+
+362
+00:11:16,670 --> 00:11:19,760
+like me who are here to take credit for
+
+363
+00:11:19,760 --> 00:11:21,740
+your work buying me stuff give me things
+
+364
+00:11:21,740 --> 00:11:23,899
+give me money any of that I'll take it
+
+365
+00:11:23,899 --> 00:11:25,880
+respect the tech lead they'll do it for
+
+366
+00:11:25,880 --> 00:11:27,649
+me feel free to share your table signs
+
+367
+00:11:27,649 --> 00:11:29,240
+of junior engineers in the comments
+
+368
+00:11:29,240 --> 00:11:31,010
+below if you liked the video give a like
+
+369
+00:11:31,010 --> 00:00:00,000
+and subscribe I'll see you next time bye
+

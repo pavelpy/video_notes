@@ -1,6 +1,7 @@
 # 
 ## Translated videos 
 * [What junior engineers don't know](https://youtu.be/NMuL6xOY1Ro)
+* [Top signs of an inexperienced programmer](https://youtu.be/-W_VsLXmjJU)
 
 ## Software that can be useful in the preparation of the subtitles
 * GNOME Subtitles
