@@ -3,6 +3,9 @@
 * [What junior engineers don't know](https://youtu.be/NMuL6xOY1Ro)
 * [Top signs of an inexperienced programmer](https://youtu.be/-W_VsLXmjJU)
 
+## Other useful videos
+* [You title here](you link here)
+
 ## Software that can be useful in the preparation of the subtitles
 * GNOME Subtitles
 ```bash
