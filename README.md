@@ -4,7 +4,7 @@
 * [Top signs of an inexperienced programmer](https://youtu.be/-W_VsLXmjJU)
 
 ## Other useful videos
-* [You title here](you link here)
+* [Integration vs Composition - Иван Стяжкин](https://youtu.be/Ytbm1BfDGRg)
 
 ## Software that can be useful in the preparation of the subtitles
 * GNOME Subtitles
