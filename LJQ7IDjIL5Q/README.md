@@ -1,0 +1,3 @@
+# Как специалисту по ручному тестированию базово проверить проект с точки зрения безопасности
+* [Презентация](https://docs.google.com/presentation/d/1vtwWg-n-f5gttxMyxrAA3L11E1_0ZGxR101taKfvaUY/edit#slide=id.g1f87997393_0_782)
+In progress...

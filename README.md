@@ -34,6 +34,9 @@ sudo apt-get install gnome-subtitles
 ## Григорий Бакунов
 * [\[2019-05-07\] Что делать, если ваш код на Python тормозит / Григорий Бакунов (Яндекс)](https://youtu.be/77B2-Pk1fls) \[[Краткое содержание](./77B2-Pk1fls/README.md)\]
 
+## Other
+* [\[2019-07-16\] Как специалисту по ручному тестированию базово проверить проект с точки зрения безопасности. Евгений Толчинский.](https://youtu.be/LJQ7IDjIL5Q) \[[Краткое содержание](./LJQ7IDjIL5Q/README.md)\]
+
 ## Thanks for making a pull request!
 No kidding - just do it! 
 ([GitHub Pull Request Tutorial](https://www.thinkful.com/learn/github-pull-request-tutorial/#Time-to-Submit-Your-First-PR))
