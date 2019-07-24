@@ -36,6 +36,7 @@ sudo apt-get install gnome-subtitles
 
 ## Other
 * [\[2019-07-16\] Как специалисту по ручному тестированию базово проверить проект с точки зрения безопасности. Евгений Толчинский.](https://youtu.be/LJQ7IDjIL5Q) \[[Краткое содержание](./LJQ7IDjIL5Q/README.md)\]
+* [\[2019-04-02\] Люди и конфликты в DevOps // Ахмед Шериев, независимый эксперт по DevOps](https://youtu.be/OizjZIr-CLk) \[[Краткое содержание](./OizjZIr-CLk/README.md)\]
 
 ## Thanks for making a pull request!
 No kidding - just do it! 
